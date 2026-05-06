@@ -16,5 +16,4 @@ A Streamlit-based web app to generate and manage passwords.
 
 ## ▶️ Run Locally
 ```bash
-pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
